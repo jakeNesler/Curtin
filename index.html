@@ -39,8 +39,11 @@
   #section41 {padding:50px; height:"auto";color: #fff; background-color:#eee;;}
   #section42 {padding :50px;height:"auto";color: #fff; background-color:#ffffff;}
   
+
+
   
   </style>
+  
 </head>
  
     <div class="jumbotron background-color=white">
@@ -51,12 +54,18 @@
     </div>
     
  
-<body data-spy="slide" data-target=".navbar" data-offset="50">
+<body data-spy="scroll" data-target=".navbar" data-offset="-200px">
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v13.0" nonce="nSbTvtsk"></script>
 
-
+<script>
+  var offset =  200;
+  $('.navbar li a').click(function(event) {
+    event.preventDefault();
+    $($(this).attr('href'))[0].scrollIntoView();
+    scrollBy(0, -offset);
+});</script>
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -72,7 +81,7 @@
         <ul class="nav navbar-nav">
           
           <li><a href="#section2">Services</a></li>
-          <li><a href="#section3">What Everyone says about us</a></li>
+          <li><a href="#section3" >What Everyone says about us</a></li>
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Contact us <span class="caret"></span></a>
             <ul class="dropdown-menu">
               <li><a href="#section41">Contact form</a></li>
@@ -85,7 +94,7 @@
   </div>
 </nav>    
 
-<div id="section1" class="container " max-height="300px">
+<div id="section1" class="container " max-height="300px" margin-top=" 200px">
     <div class="container-fluid" >
       
         <div  id="myCarousel"  class="carousel slide" data-interval="false" width="auto" height="400px"> 
