@@ -1,6 +1,23 @@
 Facbook reviews for josh copy
+<div id="section3" class="container " style="border:none; color:black; background:white; ">
+  <div class="col-sm-12 col-md-12 col-xs-12"  >
+  <div class=" col-sm-3 col-md-6 col-xs-12 image-container" style="margin:auto;"  ><div class="fb-page" data-href="https://www.facebook.com/Bob-Curtin-Electric-1932142290141763/reviews/?ref=page_internal" data-tabs="timeline" 
+      data-width="300" data-height="500" data-small-header="true" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true">
+      <blockquote cite="https://www.facebook.com/Bob-Curtin-Electric-1932142290141763/reviews/?ref=page_internal" class="fb-xfbml-parse-ignore">
+        <a href="https://www.facebook.com/Bob-Curtin-Electric-1932142290141763/reviews/?ref=page_internal">Bob Curtin Electric</a></blockquote></div>
+ </div>
+ <div class="col-sm-3 col-md-6 col-xs-12" >  
+  <div class="container-fluid" >
+    <H3> Like us on Facebook</H3>
+    <p> You can read our reviews and see updates we post. If you have already had services completed we encourage you to leave an honest review.</p>
+  </div>
+            
+</div>
+</div>
+</div>
 
 
+-----------------------------------------------------------------------------------------------
 <div id="section3" class="container " style="border:none; color:black; background:white; ">
   <div class="col-sm-12 col-md-12 col-xs-12"  >
   <div class="col-sm-6 col-md-6 col-xs-12 image-container" style="margin:auto;"  ><div class="fb-page" data-href="https://www.facebook.com/Bob-Curtin-Electric-1932142290141763/reviews/?ref=page_internal" data-tabs="timeline" 
