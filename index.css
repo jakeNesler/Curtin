@@ -4,9 +4,8 @@
 .carousel-inners{
 	position:relative;
 	overflow:hidden;
-	width:100%
+	width:100%;
 }
-
 .carousel-inners>.item{
 	display:none;
 	position:relative;
